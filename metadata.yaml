@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6076
     wikipedia: http://fr.wikipedia.org/wiki/Gustave_de_Beaumont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15463#Marie-ou-l-Esclavage-aux-Etats-UnisTableau-de-moeurs-am-ricaines
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2005-03-25'
 gutenberg_type: Text
