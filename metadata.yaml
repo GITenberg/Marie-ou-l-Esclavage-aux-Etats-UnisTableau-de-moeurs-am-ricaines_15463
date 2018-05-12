@@ -1,0 +1,35 @@
+_repo: Marie-ou-l-Esclavage-aux-Etats-UnisTableau-de-moeurs-am-ricaines_15463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaumont, Gustave de
+    aliases:
+    - De Beaumont, Gustave
+    - Bonniniere, Gustave Auguste Beaumont de La
+    - Bonninière, Gustave Auguste Beaumont de La
+    birthdate: 1802
+    deathdate: 1866
+    gutenberg_agent_id: '6076'
+    url: http://www.gutenberg.org/2009/agents/6076
+    wikipedia: http://fr.wikipedia.org/wiki/Gustave_de_Beaumont
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2005-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15463'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- To 1865'
+- !lcc 'E300'
+- !lcsh 'Slaves -- United States -- Social conditions'
+title: 'Marie ou l''Esclavage aux Etats-Unis
+
+  Tableau de moeurs américaines'
+url: http://www.gutenberg.org/ebooks/15463
